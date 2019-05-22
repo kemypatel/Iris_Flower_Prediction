@@ -1,4 +1,4 @@
-# Iris_Prediction_using_KNN
+# Iris_Flower_Prediction
 
 
 The iris dataset is a classification task consisting in identifying 3 different types of irises (Setosa, Versicolour, and Virginica) from their petal and sepal length and width:
